@@ -33,11 +33,11 @@
 ## Programming Language Design Patterns
 
 - AngularJS
-	- [design patterns](https://github.com/mgechev/angularjs-in-patterns)
+	- [design patterns](https://revivevous.github.io/Design-patterns/)
 - C#
 	- [design-patterns](https://github.com/abishekaditya/DesignPatterns) 
 	- [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
-	- [Design Patterns Library](https://github.com/nemanjarogic/DesignPatternsLibrary)
+	- [Design Patterns Library](https://revivevous.github.io/Design-patterns/)
 - C++
 	- [design-patterns](http://www.vincehuston.org/dp/)
 - Closure
@@ -52,7 +52,7 @@
 	- [Design patterns implemented in Java](https://java-design-patterns.com/patterns/)
 	- [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 - JavaScript
-	- [es6 design patterns](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
+	- [es6 design patterns(https://revivevous.github.io/Design-patterns/)
 	- [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
 	- [design-patterns](https://github.com/nnupoor/js_designpatterns)
 	- [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
